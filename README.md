@@ -1,6 +1,6 @@
 # Edgeryders Alice
 
-*Edgeryders Alice* is a chatbot application written in Vue.js and an API based on AIML adapted to JSON. The goal of this project is to: 
+A chatbot application written in Vue.js and an API based on AIML adapted to JSON. The goal of this project is to: 
 
 - Create a reactive lightweight Vue front end for chatbot interactions
 - Establish a syntax inspired by AIML and using JSON to easily write chatbot instances.
